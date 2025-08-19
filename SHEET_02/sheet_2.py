@@ -148,3 +148,24 @@
     # Explaination:- For the number 1589, the digits are 1,5,8,9. The Sum(1589) = 1+5+8+9 = 23
 
 # CODE/-
+
+
+
+
+
+# CLASS
+
+# inn = int(input("Enter an integer: "))
+
+# for i in range(1,inn+1,2):
+#         print(i)
+
+
+a=3
+b=2
+res=1
+for i in range(b):
+   res=a*res
+print(res)
+
+print(a**b)
