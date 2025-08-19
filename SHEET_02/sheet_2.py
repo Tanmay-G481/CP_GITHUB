@@ -161,11 +161,3 @@
 #         print(i)
 
 
-a=3
-b=2
-res=1
-for i in range(b):
-   res=a*res
-print(res)
-
-print(a**b)
